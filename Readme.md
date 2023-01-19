@@ -10,6 +10,7 @@ You can access it using this url :-   https://devloper-krn.github.io/Project-HTM
    
   <br>
 
-   
-> Limitation   
-> It takes almost 5 min to update / reflecting changes    
+```
+    LIMITATION   
+    It reflects change after 5 min
+```
